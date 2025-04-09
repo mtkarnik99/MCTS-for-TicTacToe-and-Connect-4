@@ -4,8 +4,7 @@
 ## Spring 2024
 ## FINAL PROJECT REPORT
 
-**AUTHORS:** Kartikey Vijayakumar Hebbar (002276938), Meet Karnik (002795334)
-**GITHUB LINK:** https://github.com/kartikeyhebbar/INFO6205-Final-Project
+**AUTHORS:** Meet Karnik
 
 ### MONTE CARLO TREE SEARCH
 
